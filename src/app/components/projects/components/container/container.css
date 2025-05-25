@@ -1,0 +1,9 @@
+.containerControlAll{
+    width: 100%;
+ 
+    padding: 0px 6px;
+    margin: 0 auto;
+    background-color: var(--dark-700);
+    min-height: 100vh;
+    
+}
